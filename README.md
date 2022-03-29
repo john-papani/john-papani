@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=john-papani&label=Profile%20views&color=0e75b6&style=flat" alt="john-papani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=john-papani" alt="john-papani" /></a> </p>
 
 - 📫 How to reach me **johnpapani1@gmail.com**
 
