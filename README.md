@@ -191,7 +191,7 @@
               alt="typescript"
               width="40"
               height="40"
-            /></p>
+            /></a></p>
 
 <br />
 
