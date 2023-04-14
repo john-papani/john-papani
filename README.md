@@ -1,15 +1,11 @@
 <h1 align="center">Hi there👋, I'm Ioannis Papanikolaou 🧑🏻‍💻 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=john-papani&label=Profile%20views&color=0e75b6&style=flat" alt="john-papani" /> </p>
-<div id="header" align="center">
-  <div id="badges">
+<p align="center">
   <a href="https://www.linkedin.com/in/ioannis-papanikolaou-1b205a259/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=john-papani&style=flat-square&color=blue" alt=""/>
-</div>
-
+</p>
 
 - 📫 How to reach me **johnpapani1@gmail.com**
 - Discord Name : **giannakhs#7074**
