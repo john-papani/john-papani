@@ -1,26 +1,21 @@
 <h1 align="center">Hi there👋, I'm Ioannis Papanikolaou 🧑🏻‍💻 </h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=john-papani&label=Profile%20views&color=0e75b6&style=flat" alt="john-papani" /> </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ioannis-papanikolaou-1b205a259/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<a href="https://www.linkedin.com/in/ioannis-papanikolaou-1b205a259/">
+  <img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 </p>
 
-- 📫 How to reach me **johnpapani1@gmail.com**
+- 📫 How to reach me: 
+  1) **johnpapani1@gmail.com** 
+  2) **johnpapanikolaou@protonmail.com**
 - Discord Name : **giannakhs#7074**
+
+<img src="https://komarev.com/ghpvc/?username=john-papani&label=Profile%20views&color=0e75b6&style=flat" alt="john-papani" />
 
 ---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-              alt="bootstrap"
-              width="40"
-              height="40"
-            />
-          </a>
           <a
             href="https://www.cprogramming.com/"
             target="_blank"
@@ -121,14 +116,6 @@
               height="40"
             />
           </a>
-          <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
-              alt="matlab"
-              width="40"
-              height="40"
-            />
-          </a>
           <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
             <img
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -202,4 +189,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-papani&show_icons=true&locale=en&layout=compact" alt="john-papani" /></p>
 <br /><br /> <br /><br /><br /> <br /><br/><br/>
 
-Last Edited on: 04/09/2022
+Last Edited on: 01/05/2023
