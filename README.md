@@ -185,8 +185,6 @@
             /></a></p>
 
 <br />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-papani&show_icons=true&locale=en&layout=compact" alt="john-papani" /></p>
 <br /><br /> <br /><br /><br /> <br /><br/><br/>
 
-Last Edited on: 01/05/2023
+Last Edited on: 19/05/2023
