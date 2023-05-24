@@ -8,7 +8,7 @@
 - 📫 How to reach me: 
   1) **johnpapani1@gmail.com** 
   2) **johnpapanikolaou@protonmail.com**
-- Discord Name : **giannakhs#7074**
+-  [Check THIS](https://linktr.ee/john_papani)
 
 <img src="https://komarev.com/ghpvc/?username=john-papani&label=Profile%20views&color=0e75b6&style=flat" alt="john-papani" />
 
