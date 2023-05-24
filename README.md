@@ -10,8 +10,6 @@
   1. **johnpapani1@gmail.com**
   2. **johnpapanikolaou@protonmail.com**
 
-<br/>
-
 - ### ⚠️ <a href ="https://linktr.ee/john_papani" target="_blank">Check THIS</a> ⚠️
 
 <img src="https://komarev.com/ghpvc/?username=john-papani&label=Profile%20views&color=0e75b6&style=flat" alt="john-papani" />
